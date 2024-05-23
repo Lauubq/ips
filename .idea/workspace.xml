@@ -5,12 +5,53 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58ff0e8c-8229-48b6-bbbe-58328951d423" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/proyectoDjango.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ips/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoD/clinic" beforeDir="false" afterPath="$PROJECT_DIR$/clinic" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoD/ips/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ips/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoD/ips/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/ips/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoD/ips/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/ips/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoD/ips/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/ips/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoD/ips/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ips/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoD/ips/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/ips/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoD/ips/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/ips/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoD/ips/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoD/ips/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/ips/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoD/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoD/proyectoD/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/proyectoDj/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoD/proyectoD/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/proyectoDj/asgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoD/proyectoD/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/proyectoDj/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoD/proyectoD/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/proyectoDj/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoD/proyectoD/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/proyectoDj/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoD/static/css/cs-skin-elastic.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/cs-skin-elastic.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoD/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoD/static/image/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/image/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoD/static/image/buscar.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/image/buscar.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoD/static/image/close_modal.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/image/close_modal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoD/static/image/delete.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/image/delete.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoD/static/image/edit.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/image/edit.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoD/static/image/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/image/img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoD/static/image/logout.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/image/logout.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoD/static/image/new_user.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/image/new_user.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoD/static/image/next.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/image/next.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoD/static/image/previous.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/image/previous.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoD/static/image/save.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/image/save.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoD/static/js/dashboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/dashboard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoD/static/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoD/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoD/templates/contact/create.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/contact/create.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoD/templates/contact/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/contact/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoD/templates/contact/medic_confirm_delete.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/contact/medic_confirm_delete.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoD/templates/contact/view.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/contact/view.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoD/templates/doctype/create.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/doctype/create.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoD/templates/doctype/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/doctype/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoD/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoD/templates/layouts/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/layouts/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoD/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoD/templates/patient/create.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/patient/create.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoD/templates/patient/delete.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/patient/delete.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoD/templates/patient/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/patient/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoD/templates/patient/view.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/patient/view.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,15 +77,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Laura/PycharmProjects/kanoha&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Laura/PycharmProjects/proyectoDjango",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Laura\PycharmProjects\proyectoDjango" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -62,5 +108,27 @@
       <updated>1714224463326</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ips/views.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
